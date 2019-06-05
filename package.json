@@ -1,0 +1,23 @@
+{
+  "name": "mysql-project---bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patricia-dalinis/MySQL-Project---Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patricia-dalinis/MySQL-Project---Bamazon/issues"
+  },
+  "homepage": "https://github.com/patricia-dalinis/MySQL-Project---Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  }
+}
