@@ -29,7 +29,7 @@ let displayInventory = () => {
     })
 };
 
-// Purchase function to prompt the customer for an item to purchase
+// Purchase function
 let purchase = () => {
     inquirer.prompt([{
                 type: "input",

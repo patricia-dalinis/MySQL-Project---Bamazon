@@ -15,7 +15,7 @@ Select * FROM products;
 
 INSERT INTO products (item_id, product_name, department_name, price, stock_quantity)
 VALUES 
-(329, "Music Box", "Home Decor", 15.00, 20), 
+(315, "Music Box", "Home Decor", 15.00, 20), 
 (835, "Stuffed Squirrel", "Toys", 5.00, 55), 
 (556, "Water Bottle", "Athletics", 8.00, 100), 
 (432, "Silver Fork", "Kitchen", 3.50, 50), 
